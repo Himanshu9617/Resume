@@ -1,0 +1,56 @@
+{
+	"basics": {
+		"name": "Himanshu Yadav",
+		"label": "Student",
+		"picture": "profile_pic.png",
+		"email": "2019kucp1114@iiitkota.ac.in",
+		"phone": "9617043341",
+
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+		"location": {
+			"address": "Ward No 06 Satwas",
+			"postalCode": "455459",
+			"city": "Satwas",
+			"countryCode": "India",
+			"region": "Madhya Pradesh"
+		},
+		"profiles": [{
+				"network": "Github",
+				"username": "Himanshu9617",
+				"url": "https://github.com/Himanshu9617/"
+			},
+			{
+				"network": "linkedin",
+				"username": "HIMANSHU YADAV",
+				"url": "https://www.linkedin.com/in/himanshu-yadav-11764a1b6/"
+			},
+			{
+				"network": "Instagram",
+				"username": "Himanshu_gurjar78",
+				"url": "https://instagram.com/Himanshu_gurjar78/"
+			}
+		]
+	},
+
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-02-08 //Date",
+		"endDate": "2023",
+		"cgpa": "7.78 (till 4th semester)",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+
+	"skills": [{
+		"level": "Intermediate",
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "Java(beginner)"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Cricket"]
+	}]
+
+}
